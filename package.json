@@ -1,6 +1,6 @@
 {
 	"name": "svelte-date-component",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "A svelte component for displaying the amount of elapsed time since a given date.",
 	"main": "index.js",
 	"scripts": {

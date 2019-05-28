@@ -1,7 +1,7 @@
 <script>
 	export let mils;
 	import userFriendlyDate from 'user-friendly-date';
-	import dateFormatter from 'user'
+	import dateFormatter from 'user-friendly-date-formatter';
 
 	let res = userFriendlyDate(mils);
 
